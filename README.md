@@ -1,15 +1,17 @@
 # Hello, I'm Ahmed Fayed 👋
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## About Me
-I'm a Senior Backend Developer with extensive experience in Laravel & PHP. Passionate about building scalable web applications and working with cross-functional teams to deliver high-quality solutions.
+I'm a **Senior Backend Developer** with extensive experience in **Laravel & PHP**. Passionate about building scalable web applications and collaborating with cross-functional teams to deliver high-quality solutions.
 
 - **Current Position**: Senior Backend Developer at Engaz CRM
 - **Email**: [ahmedfayed1000@gmail.com](mailto:ahmedfayed1000@gmail.com)
 - **Phone**: +201012315376
 - **Location**: Qesm El Moqatam, Cairo, Egypt
-- **LinkedIn**: [ahmed-fayed2018](https://www.linkedin.com/in/ahmed-fayed2018/)
+- **LinkedIn**: [Ahmed Fayed](https://www.linkedin.com/in/ahmed-fayed2018/)
+
+---
 
 ## 🚀 Skills
 
@@ -27,14 +29,13 @@ I'm a Senior Backend Developer with extensive experience in Laravel & PHP. Passi
 ### API Development & Integration
 - ![RESTful API](https://img.shields.io/badge/-RESTful%20API-4CAF50?style=flat-square&logo=api&logoColor=white)
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### Others
 - ![Agile](https://img.shields.io/badge/-Agile-0052CC?style=flat-square&logo=agile&logoColor=white)
 - ![Waterfall](https://img.shields.io/badge/-Waterfall-00BCD4?style=flat-square&logo=waterfall&logoColor=white)
 
-## 📈 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedfayed1994&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfayed1994&layout=compact&theme=radical)
+---
 
 ## 💼 Professional Experience
 
@@ -62,9 +63,19 @@ I'm a Senior Backend Developer with extensive experience in Laravel & PHP. Passi
 - Analyzed client requirements and translated them into technical solutions.
 - Optimized database performance and designed maintainable software architectures.
 
-## 📞 Contact Me
-- **Email**: [ahmedfayed1000@gmail.com](mailto:ahmedfayed1000@gmail.com)
-- **Phone**: +201012315376
-- **LinkedIn**: [ahmed-fayed2018](https://www.linkedin.com/in/ahmed-fayed2018/)
+---
 
-![Contact me](https://media.giphy.com/media/1wX3R1uC7MfJc/giphy.gif)
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfayed1994&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfayed1994&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+---
+
+## 📞 Contact Me
+<div align="center">
+  <a href="mailto:ahmedfayed1000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ahmed-fayed2018/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="tel:+201012315376"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
+</div>
