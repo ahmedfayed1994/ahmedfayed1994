@@ -8,7 +8,7 @@ I'm a **Senior Backend Developer** with extensive experience in **Laravel & PHP*
 - **Current Position**: Senior Backend Developer at Engaz CRM
 - **Email**: [ahmedfayed1000@gmail.com](mailto:ahmedfayed1000@gmail.com)
 - **Phone**: +201012315376
-- **Location**:  Mansoura, Egypt
+- **Location**: Mansoura, Egypt
 - **LinkedIn**: [Ahmed Fayed](https://www.linkedin.com/in/ahmed-fayed2018/)
 
 ---
@@ -70,6 +70,22 @@ I'm a **Senior Backend Developer** with extensive experience in **Laravel & PHP*
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedfayed1994&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfayed1994&layout=compact&theme=radical" alt="Top Langs" />
 </div>
+
+---
+
+## 💡 Quick Tips and Summaries
+
+- **Service Container – Service Provider – Dependency Injection** 🧙‍♂️  
+  These are the backbone of your code, keeping everything organized and efficient.  
+  [Details here](https://docs.google.com/document/d/1FbAkCL-6JNPbHhabqNE9DCwnWKv0JXC816N81sYZjYA/edit?usp=sharing)
+
+- **Request** 📥  
+  Requests enter like a guest at a party, and the code welcomes them warmly.  
+  [Details here](https://docs.google.com/document/d/1kmGiSAvvko4k3nhl7RR-vvV5aqfMropCgkwSOGRrp4E/edit?usp=sharing)
+
+- **Load Balancer** ⚖️  
+  Distributes the load like sharing pizza among friends, everyone gets their fair share.  
+  [Details here](https://docs.google.com/document/d/16fPKr7xfvEHkTOLGI7H7qWofjvseq4OoJLGSkzAFkFg/edit?usp=sharing)
 
 ---
 
