@@ -8,7 +8,7 @@ I'm a **Senior Backend Developer** with extensive experience in **Laravel & PHP*
 - **Current Position**: Senior Backend Developer at Engaz CRM
 - **Email**: [ahmedfayed1000@gmail.com](mailto:ahmedfayed1000@gmail.com)
 - **Phone**: +201012315376
-- **Location**: Qesm El Moqatam, Cairo, Egypt
+- **Location**:  Mansoura, Egypt
 - **LinkedIn**: [Ahmed Fayed](https://www.linkedin.com/in/ahmed-fayed2018/)
 
 ---
